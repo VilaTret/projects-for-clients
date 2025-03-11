@@ -1,0 +1,1329 @@
+{
+	"/futbolky/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/33/450x600l80mc0/futbolka-zhinocha-coolmax-piksel-72734171081203.jpeg",
+				"/content/images/33/450x600l80mc0/futbolka-zhinocha-coolmax-piksel-25365736986308.jpg",
+				"/content/images/33/450x600l80mc0/futbolka-zhinocha-coolmax-piksel-26301699882933.jpg",
+				"/content/images/33/277x600l80mc0/futbolka-zhinocha-coolmax-piksel-85401834427625.jpg"
+			],
+			"price": 559,
+			"name": "Тактична футболка 5.45style жіноча coolmax піксель",
+			"isWarm": false
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/40/450x600l80mc0/futbolka-zhinocha-coolmax-olyva-67827914383818.jpg",
+				"/content/images/40/450x600l80mc0/futbolka-zhinocha-coolmax-olyva-54726820770031.jpg",
+				"/content/images/40/450x600l80mc0/futbolka-zhinocha-coolmax-olyva-71312779402900.jpg",
+				"/content/images/40/277x600l80mc0/futbolka-zhinocha-coolmax-olyva-42992809829867.jpg"
+			],
+			"price": 559,
+			"name": "Тактична футболка 5.45style жіноча coolmax олива",
+			"isWarm": false
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/5/492x600l80mc0/futbolka-zhinocha-coolmax-multykam654l-58698865907324.png",
+				"/content/images/5/488x600l80mc0/futbolka-zhinocha-coolmax-multykam654l-90960091155870.png",
+				"/content/images/3/277x600l80mc0/futbolka-zhinocha-coolmax-multykam652-61849774851878.jpg"
+			],
+			"price": 559,
+			"name": "Тактична футболка жіноча5.45style  coolmax мультикам",
+			"isWarm": false
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/9/489x600l80mc0/taktychna-futbolka-army-5.45style-13170139972217.jpg",
+				"/content/images/9/492x600l80mc0/taktychna-futbolka-army-5.45style-59686108859618.jpg",
+				"/content/images/9/493x600l80mc0/taktychna-futbolka-army-5.45style-54194563031692.jpg",
+				"/content/images/9/489x600l80mc0/taktychna-futbolka-army-5.45style-47210893513315.jpg",
+				"/content/images/9/490x600l80mc0/taktychna-futbolka-army-5.45style-91714767899244.jpg",
+				"/content/images/9/483x600l80mc0/taktychna-futbolka-army-5.45style-96538409340411.jpg",
+				"/content/images/9/488x600l80mc0/taktychna-futbolka-army-5.45style-54506933673350.jpg",
+				"/content/images/9/277x600l80mc0/taktychna-futbolka-army-5.45style-55926902095259.jpg"
+			],
+			"price": 559,
+			"name": "Тактична футболка ARMY 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 4,
+			"imageSrcs": [
+				"/content/images/23/495x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-temno-synia-43912497637428.jpg",
+				"/content/images/23/491x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-temno-synia-75465797263888.jpg",
+				"/content/images/23/489x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-temno-synia-96134512231972.jpg",
+				"/content/images/23/494x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-temno-synia-52705288471184.jpg",
+				"/content/images/23/486x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-temno-synia-51452654845727.jpg",
+				"/content/images/23/277x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-temno-synia-78756360309342.jpg"
+			],
+			"price": 559,
+			"name": "Тактична футболка 5.45style жіноча coolmax темно-синя",
+			"isWarm": false
+		},
+		{
+			"id": 5,
+			"imageSrcs": [
+				"/content/images/47/492x600l80mc0/taktychna-futbolka-herb-5.45style-56490551208033.png",
+				"/content/images/47/504x600l80mc0/taktychna-futbolka-herb-5.45style-70083062211430.png",
+				"/content/images/47/497x600l80mc0/taktychna-futbolka-herb-5.45style-55322318859096.png",
+				"/content/images/47/502x600l80mc0/taktychna-futbolka-herb-5.45style-14490287098447.png",
+				"/content/images/47/480x600l80mc0/taktychna-futbolka-herb-5.45style-84879431837605.png"
+			],
+			"price": 559,
+			"name": "Тактична футболка ГЕРБ 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 6,
+			"imageSrcs": [
+				"/content/images/11/488x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-koiot-99475750921627.png",
+				"/content/images/11/498x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-koiot-34934110005125.png",
+				"/content/images/11/501x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-koiot-47259577570807.png",
+				"/content/images/11/499x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-koiot-68855911330985.png",
+				"/content/images/11/497x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-koiot-60969537792525.png",
+				"/content/images/11/480x600l80mc0/taktychna-futbolka-5.45style-zhinocha-coolmax-koiot-47453928866605.png"
+			],
+			"price": 559,
+			"name": "Тактична футболка 5.45style жіноча coolmax койот",
+			"isWarm": false
+		},
+		{
+			"id": 7,
+			"imageSrcs": [
+				"/content/images/48/481x600l80mc0/futbolka-zhinocha-coolmax-chorna647b-29994319739621.png",
+				"/content/images/48/486x600l80mc0/futbolka-zhinocha-coolmax-chorna647b-77067977843078.png",
+				"/content/images/48/490x600l80mc0/futbolka-zhinocha-coolmax-chorna647b-94349230129278.png",
+				"/content/images/1/277x600l80mc0/futbolka-zhinocha-coolmax-chorna650xxl-66965419763654.jpg"
+			],
+			"price": 559,
+			"name": "Тактична футболка 5.45style жіноча coolmax чорна",
+			"isWarm": false
+		}
+	],
+	"/polo/1099/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/14/450x600l80mc0/polo-synie-48106219715338.jpg",
+				"/content/images/14/450x600l80mc0/polo-synie-53494428803137.jpg",
+				"/content/images/14/450x600l80mc0/polo-synie-21630271277185.jpg",
+				"/content/images/14/450x600l80mc0/polo-synie-13569606077940.jpg",
+				"/content/images/14/277x600l80mc0/polo-synie-39228416848954.jpg"
+			],
+			"price": 659,
+			"name": "Тактичне жіноче поло 5.45style чорне",
+			"isWarm": false
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/28/450x600l80mc0/polo-olyvaid-68308569441642.jpg",
+				"/content/images/28/450x600l80mc0/polo-olyvaid-22424501748678.jpg",
+				"/content/images/31/277x600l80mc0/71428501080647.jpg"
+			],
+			"price": 659,
+			"name": "Тактичне поло 5.45style олива",
+			"isWarm": false
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/18/618x600l80mc0/98188612265190.jpg",
+				"/content/images/18/618x600l80mc0/81377524934330.jpg",
+				"/content/images/18/610x600l80mc0/41273126904221.jpg",
+				"/content/images/18/617x600l80mc0/52349952178861.jpg",
+				"/content/images/18/614x600l80mc0/44856737317554.jpg",
+				"/content/images/18/606x600l80mc0/27532206823679.jpg",
+				"/content/images/18/277x600l80mc0/88251297144773.jpg"
+			],
+			"price": 659,
+			"name": "Тактичне поло 5.45style жіноче синє",
+			"isWarm": false
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/6/450x600l80mc0/polo-z-dovhym-rukavom-36262331030096.jpg",
+				"/content/images/6/450x600l80mc0/polo-z-dovhym-rukavom-88459920216861.jpg",
+				"/content/images/6/450x600l80mc0/polo-z-dovhym-rukavom-43625362875002.jpg",
+				"/content/images/6/450x600l80mc0/polo-z-dovhym-rukavom-69807624624907.jpg",
+				"/content/images/6/277x600l80mc0/polo-z-dovhym-rukavom-20494610089518.jpg"
+			],
+			"price": 799,
+			"name": "Тактичне поло з довгим рукавом 5.45style чорне",
+			"isWarm": false
+		},
+		{
+			"id": 4,
+			"imageSrcs": [
+				"/content/images/3/500x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-62020728684946.jpg",
+				"/content/images/3/492x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-97468680222002.jpg",
+				"/content/images/3/497x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-41092366668770.jpg",
+				"/content/images/3/487x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-42760233256296.jpg",
+				"/content/images/3/490x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-38361343160944.jpg",
+				"/content/images/3/491x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-92461407459735.jpg",
+				"/content/images/3/489x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-57821196414897.jpg",
+				"/content/images/3/493x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-34107924226953.jpg",
+				"/content/images/3/488x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-27480841384754.jpg",
+				"/content/images/3/480x600l80mc0/taktychne-polo-z-dovhym-rukavom-5.45style-temno-synie-84127314525268.jpg"
+			],
+			"price": 799,
+			"name": "Тактичне поло з довгим рукавом 5.45style темно-синє",
+			"isWarm": false
+		},
+		{
+			"id": 5,
+			"imageSrcs": [
+				"/content/images/24/450x600l80mc0/taktychne-zhinoche-polo-5.45style-koiot-92169299392755.jpg",
+				"/content/images/24/450x600l80mc0/taktychne-zhinoche-polo-5.45style-koiot-23703314948440.jpg",
+				"/content/images/24/450x600l80mc0/taktychne-zhinoche-polo-5.45style-koiot-58841111949210.jpg",
+				"/content/images/24/450x600l80mc0/taktychne-zhinoche-polo-5.45style-koiot-78525006314529.jpg",
+				"/content/images/24/450x600l80mc0/taktychne-zhinoche-polo-5.45style-koiot-37641240045964.jpg",
+				"/content/images/24/480x600l80mc0/taktychne-zhinoche-polo-5.45style-koiot-78158437309002.png"
+			],
+			"price": 659,
+			"name": "Тактичне жіноче поло 5.45style койот",
+			"isWarm": false
+		},
+		{
+			"id": 6,
+			"imageSrcs": [
+				"/content/images/36/500x600l80mc0/74069217032425.png",
+				"/content/images/36/494x600l80mc0/56651773902530.png",
+				"/content/images/36/498x600l80mc0/20868906644926.png",
+				"/content/images/36/490x600l80mc0/82546361408590.png",
+				"/content/images/36/480x600l80mc0/19379992455806.png"
+			],
+			"price": 799,
+			"name": "Тактичне поло з довгим рукавом темно-синє 5.45style",
+			"isWarm": false
+		}
+	],
+	"/lonhsliv/1100/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/44/493x600l80mc0/52521371195675.png",
+				"/content/images/44/484x600l80mc0/77046747504062.png",
+				"/content/images/44/495x600l80mc0/78243688723951.png",
+				"/content/images/44/488x600l80mc0/99678822031324.png",
+				"/content/images/41/480x600l80mc0/lonsliv-nhu-zhinochyi-84226554174355.jpg"
+			],
+			"price": 739,
+			"name": "Лонслів НГУ жіночий 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/2/483x600l80mc0/92183674459426.png",
+				"/content/images/2/483x600l80mc0/41665822397221.png",
+				"/content/images/2/480x600l80mc0/36772112891157.png",
+				"/content/images/2/493x600l80mc0/42012767715281.png",
+				"/content/images/2/482x600l80mc0/67130969903036.png",
+				"/content/images/2/480x600l80mc0/84395660813016.jpg"
+			],
+			"price": 739,
+			"name": "Тактичний лонгслів жіночий 5.45style піксель",
+			"isWarm": false
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/13/450x600l80mc0/lonsliv-multykam-zhinochyi-30248284350674.jpg",
+				"/content/images/13/450x600l80mc0/lonsliv-multykam-zhinochyi-75148418452135.jpg",
+				"/content/images/13/450x600l80mc0/lonsliv-multykam-zhinochyi-72535698451778.jpg",
+				"/content/images/13/450x600l80mc0/lonsliv-multykam-zhinochyi-30143271037407.jpg",
+				"/content/images/13/450x600l80mc0/lonsliv-multykam-zhinochyi-51827845445545.jpg",
+				"/content/images/13/480x600l80mc0/lonsliv-multykam-zhinochyi-44221305113208.jpg"
+			],
+			"price": 739,
+			"name": "Тактичний лонгслів 5.45style мультикам жіночий",
+			"isWarm": false
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/47/486x600l80mc0/696-88221193935151.png",
+				"/content/images/47/485x600l80mc0/696-77685976188815.png",
+				"/content/images/47/491x600l80mc0/696-50235113848253.png",
+				"/content/images/47/483x600l80mc0/696-17164589976040.png",
+				"/content/images/47/484x600l80mc0/696-61220323656858.png",
+				"/content/images/47/497x600l80mc0/696-24955909246342.png",
+				"/content/images/44/480x600l80mc0/taktychnyi-lonhsliv-5.45style-black-iz-zhetonom-14462792397706.jpg"
+			],
+			"price": 739,
+			"name": "Тактичний лонгслів 5.45style black із жетоном",
+			"isWarm": false
+		},
+		{
+			"id": 4,
+			"imageSrcs": [
+				"/content/images/3/503x600l80mc0/taktychnyi-lonhsliv-5.45style-synii-iz-zhetonom702-39226425032278.png",
+				"/content/images/3/551x600l80mc0/lonhsliv-synii-iz-zhetonom702-38063749121267.png",
+				"/content/images/3/500x600l80mc0/taktychnyi-lonhsliv-5.45style-synii-iz-zhetonom702-71491132506557.png",
+				"/content/images/3/498x600l80mc0/taktychnyi-lonhsliv-5.45style-synii-iz-zhetonom702-57096628836691.png",
+				"/content/images/3/660x600l80mc0/taktychnyi-lonhsliv-5.45style-synii-iz-zhetonom702-18903637086771.png",
+				"/content/images/3/480x600l80mc0/taktychnyi-lonhsliv-5.45style-synii-iz-zhetonom702-88897854077553.jpg"
+			],
+			"price": 739,
+			"name": "Тактичний лонгслів 5.45style синій із жетоном",
+			"isWarm": false
+		},
+		{
+			"id": 5,
+			"imageSrcs": [
+				"/content/images/26/450x600l80mc0/uteplenyi-lonhsliv-z-mistsem-pid-zheton725-33073796085422.jpg",
+				"/content/images/26/450x600l80mc0/uteplenyi-lonhsliv-z-mistsem-pid-zheton725-67134437712323.jpg",
+				"/content/images/26/450x600l80mc0/uteplenyi-lonhsliv-z-mistsem-pid-zheton725-30975271959742.jpg",
+				"/content/images/26/450x600l80mc0/uteplenyi-lonhsliv-z-mistsem-pid-zheton725-96010771132726.jpg",
+				"/content/images/26/480x600l80mc0/uteplenyi-lonhsliv-z-mistsem-pid-zheton725-93383682674300.jpg",
+				"/content/images/26/450x600l80mc0/uteplenyi-lonhsliv-z-mistsem-pid-zheton725-44684773120235.jpg",
+				"/content/images/26/480x600l80mc0/taktychnyi-uteplenyi-lonhsliv-5.45style-z-mistsem-pid-zheton725-45105158494558.jpg"
+			],
+			"price": 839,
+			"name": "Тактичний утеплений лонгслів 5.45style з місцем під жетон",
+			"isWarm": true
+		},
+		{
+			"id": 6,
+			"imageSrcs": [
+				"/content/images/5/493x600l80mc0/taktychnyi-lonhsliv-5.45style-koiot-zhinochyi-96302618531165.png",
+				"/content/images/5/504x600l80mc0/taktychnyi-lonhsliv-5.45style-koiot-zhinochyi-51873518817313.png",
+				"/content/images/5/507x600l80mc0/taktychnyi-lonhsliv-5.45style-koiot-zhinochyi-51833878796123.png",
+				"/content/images/5/480x600l80mc0/taktychnyi-lonhsliv-5.45style-koiot-zhinochyi-23859459384376.jpg"
+			],
+			"price": 739,
+			"name": "Тактичний лонгслів 5.45style койот жіночий",
+			"isWarm": false
+		},
+		{
+			"id": 7,
+			"imageSrcs": [
+				"/content/images/43/513x600l80mc0/taktychnyi-lonhsliv-multykam-zhinochyi-5.45style-91474094415507.png",
+				"/content/images/43/492x600l80mc0/taktychnyi-lonhsliv-multykam-zhinochyi-5.45style-26857998371552.png",
+				"/content/images/43/484x600l80mc0/taktychnyi-lonhsliv-multykam-zhinochyi-5.45style-86107458210499.png",
+				"/content/images/43/491x600l80mc0/taktychnyi-lonhsliv-multykam-zhinochyi-5.45style-89218899731163.png",
+				"/content/images/43/487x600l80mc0/taktychnyi-lonhsliv-multykam-zhinochyi-5.45style-81157028972934.png",
+				"/content/images/43/490x600l80mc0/taktychnyi-lonhsliv-multykam-zhinochyi-5.45style-47226700699152.png",
+				"/content/images/43/480x600l80mc0/taktychnyi-lonhsliv-multykam-zhinochyi-5.45style-34884651391898.jpg"
+			],
+			"price": 739,
+			"name": "Тактичний лонгслів мультикам жіночий 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 8,
+			"imageSrcs": [
+				"/content/images/34/522x600l80mc0/13130285889758.jpg",
+				"/content/images/34/490x600l80mc0/73081390101979.jpg",
+				"/content/images/34/491x600l80mc0/29869486909493.jpg",
+				"/content/images/34/489x600l80mc0/93634416185907.jpg",
+				"/content/images/34/480x600l80mc0/52084942490411.jpg"
+			],
+			"price": 839,
+			"name": "Тактичний утеплений лонгслів 5.45style олива",
+			"isWarm": true
+		},
+		{
+			"id": 9,
+			"imageSrcs": [
+				"/content/images/40/493x600l80mc0/taktychnyi-uteplenyi-lonhsliv-5.45style-temno-synii-49517709057548.jpg",
+				"/content/images/40/491x600l80mc0/taktychnyi-uteplenyi-lonhsliv-5.45style-temno-synii-42520484883634.jpg",
+				"/content/images/40/491x600l80mc0/taktychnyi-uteplenyi-lonhsliv-5.45style-temno-synii-88136444655697.jpg",
+				"/content/images/40/494x600l80mc0/taktychnyi-uteplenyi-lonhsliv-5.45style-temno-synii-32436336370524.jpg",
+				"/content/images/40/480x600l80mc0/taktychnyi-uteplenyi-lonhsliv-5.45style-temno-synii-36117326580825.jpg"
+			],
+			"price": 839,
+			"name": "Тактичний утеплений лонгслів 5.45style темно-синій",
+			"isWarm": true
+		}
+	],
+	"/ubaks/1101/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/5/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-black-11345249633530.jpg",
+				"/content/images/5/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-black-17999191247757.jpg",
+				"/content/images/5/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-black-73229279866106.jpg",
+				"/content/images/5/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-black-47424620506280.jpg",
+				"/content/images/5/490x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-black-58219172487248.jpg",
+				"/content/images/5/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-black-66451715195971.jpg",
+				"/content/images/5/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-black-72207712838243.jpg",
+				"/content/images/5/480x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-black-86590748460548.png"
+			],
+			"price": 959,
+			"name": "Тактичний жіночий убакс 5.45style black",
+			"isWarm": false
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/11/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-piksel-21525047838724.jpg",
+				"/content/images/11/480x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-piksel-33395283968801.jpg",
+				"/content/images/11/480x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-piksel-30642793820540.jpg",
+				"/content/images/11/480x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-piksel-14087592132452.jpg",
+				"/content/images/11/481x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-piksel-85633990077608.jpg",
+				"/content/images/11/480x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-piksel-21721804592455.png"
+			],
+			"price": 959,
+			"name": "Тактичний жіночий убакс 5.45style піксель",
+			"isWarm": false
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/17/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-multykam-74849230365781.jpeg",
+				"/content/images/17/457x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-multykam-18954189443737.jpeg",
+				"/content/images/17/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-multykam-93097881627316.jpeg",
+				"/content/images/17/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-multykam-59398956658954.jpeg",
+				"/content/images/17/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-multykam-43743286154624.jpeg",
+				"/content/images/17/450x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-multykam-92103069211131.jpeg",
+				"/content/images/17/480x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-multykam-79870365146933.png"
+			],
+			"price": 959,
+			"name": "Тактичний жіночий убакс 5.45style мультикам",
+			"isWarm": false
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/18/476x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-blue-60366547073262.png",
+				"/content/images/18/364x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-blue-35549319722166.png",
+				"/content/images/18/361x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-blue-33673652488846.png",
+				"/content/images/18/495x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-blue-92224606907161.png",
+				"/content/images/18/475x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-blue-19257383255313.png",
+				"/content/images/18/439x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-blue-80919694381890.png",
+				"/content/images/18/480x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-blue-17874799983453.png"
+			],
+			"price": 959,
+			"name": "Тактичний жіночий убакс 5.45style blue",
+			"isWarm": false
+		},
+		{
+			"id": 4,
+			"imageSrcs": [
+				"/content/images/30/482x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-olyva-48990167962904.png",
+				"/content/images/30/488x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-olyva-88065894237438.png",
+				"/content/images/30/479x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-olyva-61305854359574.png",
+				"/content/images/30/474x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-olyva-78857667693514.png",
+				"/content/images/30/489x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-olyva-94059892989185.png",
+				"/content/images/30/474x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-olyva-26031757684246.png",
+				"/content/images/30/480x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-olyva-54370440129254.png"
+			],
+			"price": 959,
+			"name": "Тактичний жіночий убакс 5.45style олива",
+			"isWarm": false
+		},
+		{
+			"id": 5,
+			"imageSrcs": [
+				"/content/images/45/488x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-koiot-13154438946811.png",
+				"/content/images/45/486x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-koiot-80573953173121.png",
+				"/content/images/45/472x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-koiot-19413371072693.png",
+				"/content/images/45/474x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-koiot-69536116601776.png",
+				"/content/images/45/475x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-koiot-35179715396446.png",
+				"/content/images/45/478x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-koiot-57444638331924.png",
+				"/content/images/45/480x600l80mc0/taktychnyi-zhinochyi-ubaks-5.45style-koiot-90190203853385.png"
+			],
+			"price": 959,
+			"name": "Тактичний жіночий убакс 5.45style койот",
+			"isWarm": false
+		},
+		{
+			"id": 6,
+			"imageSrcs": [
+				"/content/images/6/512x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-black-79433986356202.jpg",
+				"/content/images/6/450x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-black-16648486103721.jpg",
+				"/content/images/6/450x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-black-85923149092476.jpg",
+				"/content/images/6/450x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-black-66373599025911.jpg",
+				"/content/images/6/450x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-black-28321412007172.jpg",
+				"/content/images/6/450x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-black-62057778970508.jpg",
+				"/content/images/6/450x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-black-87214701668768.jpg",
+				"/content/images/6/480x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-black-31588610624980.png"
+			],
+			"price": 1059,
+			"name": "Тактичний утеплений жіночий убакс 5.45style темно-синій",
+			"isWarm": true
+		},
+		{
+			"id": 7,
+			"imageSrcs": [
+				"/content/images/18/529x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-blackid-14265117567282.jpg",
+				"/content/images/18/498x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-blackid-42731479959250.jpg",
+				"/content/images/18/531x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-blackid-43926784412872.jpg",
+				"/content/images/18/480x600l80mc0/taktychnyi-uteplenyi-zhinochyi-ubaks-5.45style-black1067-89459280351051.png"
+			],
+			"price": 1059,
+			"name": "Тактичний утеплений жіночий убакс 5.45style black",
+			"isWarm": true
+		}
+	],
+	"/shtany/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/23/450x600l80mc0/shtany-piksel-zhinochi622-22581016689501.jpg",
+				"/content/images/23/450x600l80mc0/shtany-piksel-zhinochi622-58618212898162.jpg",
+				"/content/images/23/450x600l80mc0/shtany-piksel-zhinochi622-60146683550050.jpg",
+				"/content/images/23/450x600l80mc0/shtany-piksel-zhinochi622-81442954937007.jpg",
+				"/content/images/23/450x600l80mc0/shtany-piksel-zhinochi622-43205225117735.jpg",
+				"/content/images/23/450x600l80mc0/shtany-piksel-zhinochi622-14600702858529.jpg",
+				"/content/images/11/480x600l80mc0/shtany-piksel-zhinochi-55971660895134.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани 5.45style піксель жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/18/450x600l80mc0/shtany-zhinochi-olyva-khaki-95136237611924.jpg",
+				"/content/images/18/450x600l80mc0/shtany-zhinochi-olyva-khaki-60671815728153.jpg",
+				"/content/images/18/490x600l80mc0/shtany-zhinochi-olyva-khaki-52382263748520.png",
+				"/content/images/18/481x600l80mc0/shtany-zhinochi-olyva-khaki-76930979081033.png",
+				"/content/images/18/493x600l80mc0/shtany-zhinochi-olyva-khaki-16629238475100.png",
+				"/content/images/18/480x600l80mc0/shtany-zhinochi-olyva-khaki-87035365082550.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани 5.45style жіночі олива (хакі)",
+			"isWarm": false
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/32/450x600l80mc0/shtany-soft-shell-na-flisi-70026246003143.jpg",
+				"/content/images/32/450x600l80mc0/shtany-soft-shell-na-flisi-81359472074667.jpg",
+				"/content/images/32/450x600l80mc0/shtany-soft-shell-na-flisi-82408794309846.jpg",
+				"/content/images/32/450x600l80mc0/shtany-soft-shell-na-flisi-19282232642845.jpg",
+				"/content/images/32/450x600l80mc0/shtany-soft-shell-na-flisi-46985898576870.jpg",
+				"/content/images/32/450x600l80mc0/shtany-soft-shell-na-flisi-32695725857133.jpg",
+				"/content/images/32/480x600l80mc0/shtany-soft-shell-na-flisi-40626124314234.jpg"
+			],
+			"price": 1359,
+			"name": "Штани Soft Shell на флісі олива",
+			"isWarm": true
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/38/450x600l80mc0/shtany-soft-shell-na-flisi-chorni-53108551960511.jpg",
+				"/content/images/38/450x600l80mc0/shtany-soft-shell-na-flisi-chorni-85901729485992.jpg",
+				"/content/images/38/450x600l80mc0/shtany-soft-shell-na-flisi-chorni-23691119601216.jpg",
+				"/content/images/38/450x600l80mc0/shtany-soft-shell-na-flisi-chorni-23024877711748.jpg",
+				"/content/images/38/450x600l80mc0/shtany-soft-shell-na-flisi-chorni-39009933285850.jpg",
+				"/content/images/38/450x600l80mc0/shtany-soft-shell-na-flisi-chorni-43290247138351.jpg",
+				"/content/images/38/450x600l80mc0/shtany-soft-shell-na-flisi-chorni-49936801902647.jpg",
+				"/content/images/38/480x600l80mc0/shtany-soft-shell-na-flisi-chorni-53245373879144.jpg"
+			],
+			"price": 1359,
+			"name": "Штани Soft Shell на флісі чорні",
+			"isWarm": true
+		},
+		{
+			"id": 4,
+			"imageSrcs": [
+				"/content/images/8/497x600l80mc0/shtany-temno-syni-zhinochi707-61522360663097.png",
+				"/content/images/8/491x600l80mc0/shtany-temno-syni-zhinochi707-26249518471444.png",
+				"/content/images/8/485x600l80mc0/shtany-temno-syni-zhinochi707-14417355979233.png",
+				"/content/images/8/490x600l80mc0/shtany-temno-syni-zhinochi707-91193784968883.png",
+				"/content/images/6/480x600l80mc0/taktychni-shtany-5.45style-temno-syni-zhinochi-21639909720635.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани 5.45style темно-сині жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 5,
+			"imageSrcs": [
+				"/content/images/14/485x600l80mc0/shtany-chorni-zhinochi713-22320999946584.png",
+				"/content/images/14/495x600l80mc0/shtany-chorni-zhinochi713-55839158031210.png",
+				"/content/images/14/488x600l80mc0/shtany-chorni-zhinochi713-97302515436409.png",
+				"/content/images/14/488x600l80mc0/shtany-chorni-zhinochi713-54872437171194.png",
+				"/content/images/14/543x600l80mc0/shtany-chorni-zhinochi713-32654772422824.png",
+				"/content/images/14/553x600l80mc0/shtany-chorni-zhinochi713-19188535105713.png",
+				"/content/images/14/453x600l80mc0/shtany-chorni-zhinochi713-29604858828551.png",
+				"/content/images/12/480x600l80mc0/taktychni-shtany-5.45style-chorni-zhinochi-98215550915718.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани 5.45style чорні жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 6,
+			"imageSrcs": [
+				"/content/images/41/437x600l80mc0/taktychni-shtany-5.45style-multykam-zhinochi-57588591643921.jpg",
+				"/content/images/41/450x600l80mc0/taktychni-shtany-5.45style-multykam-zhinochi-67653412496924.jpg",
+				"/content/images/41/450x600l80mc0/taktychni-shtany-5.45style-multykam-zhinochi-45490923321880.jpg",
+				"/content/images/41/450x600l80mc0/taktychni-shtany-5.45style-multykam-zhinochi-17115427311290.jpg",
+				"/content/images/41/450x600l80mc0/taktychni-shtany-5.45style-multykam-zhinochi-28740711949038.jpg",
+				"/content/images/41/450x600l80mc0/taktychni-shtany-5.45style-multykam-zhinochi-71475889083482.jpg",
+				"/content/images/41/450x600l80mc0/taktychni-shtany-5.45style-multykam-zhinochi-25481835499476.jpg",
+				"/content/images/41/450x600l80mc0/taktychni-shtany-5.45style-multykam-zhinochi-81397651870097.jpg",
+				"/content/images/41/480x600l80mc0/taktychni-shtany-5.45style-multykam-zhinochi-59994597562237.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани 5.45style мультикам жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 7,
+			"imageSrcs": [
+				"/content/images/29/450x600l80mc0/taktychni-shtany-5.45style-khyzhak-zhinochi-33561613025323.jpg",
+				"/content/images/29/450x600l80mc0/taktychni-shtany-5.45style-khyzhak-zhinochi-70909485109190.jpg",
+				"/content/images/29/450x600l80mc0/taktychni-shtany-5.45style-khyzhak-zhinochi-64233676188417.jpg",
+				"/content/images/29/450x600l80mc0/taktychni-shtany-5.45style-khyzhak-zhinochi-73098221895736.jpg",
+				"/content/images/29/480x600l80mc0/taktychni-shtany-5.45style-khyzhak-zhinochi-44315318599489.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани 5.45style хижак жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 8,
+			"imageSrcs": [
+				"/content/images/41/493x600l80mc0/taktychni-shtany-5.45style-koiot-zhinochi-14773979877924.png",
+				"/content/images/41/504x600l80mc0/taktychni-shtany-5.45style-koiot-zhinochi-21285650554472.png",
+				"/content/images/41/495x600l80mc0/taktychni-shtany-5.45style-koiot-zhinochi-75956999451369.png",
+				"/content/images/41/494x600l80mc0/taktychni-shtany-5.45style-koiot-zhinochi-82294474086221.png",
+				"/content/images/41/495x600l80mc0/taktychni-shtany-5.45style-koiot-zhinochi-20343098425257.png",
+				"/content/images/41/491x600l80mc0/taktychni-shtany-5.45style-koiot-zhinochi-47131095824650.png",
+				"/content/images/41/486x600l80mc0/taktychni-shtany-5.45style-koiot-zhinochi-50671219246942.png",
+				"/content/images/41/480x600l80mc0/taktychni-shtany-5.45style-koiot-zhinochi-26480490379935.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани 5.45style койот жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 9,
+			"imageSrcs": [
+				"/content/images/3/412x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style-18229955567347.png",
+				"/content/images/3/405x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style-16815256988432.jpg",
+				"/content/images/3/489x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style-27911010020932.png",
+				"/content/images/3/495x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style-17316498408223.png",
+				"/content/images/3/501x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style-91567012041613.png",
+				"/content/images/3/480x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style-56190088538483.jpg"
+			],
+			"price": 1659,
+			"name": "Утеплені штани технологією OMNI-HEAT чорні жіночі 5.45style",
+			"isWarm": true
+		},
+		{
+			"id": 10,
+			"imageSrcs": [
+				"/content/images/9/498x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45styleid-64925428595629.jpg",
+				"/content/images/9/503x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style958-55921423542291.png",
+				"/content/images/9/497x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style958-44766138012548.png",
+				"/content/images/9/485x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style958-94869572415876.png",
+				"/content/images/9/497x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style958-12026094477094.png",
+				"/content/images/9/498x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style958-24242235387163.png",
+				"/content/images/9/480x600l80mc0/utepleni-shtany-tekhnolohiieiu-omni-heat-chorni-zhinochi-5.45style958-20284298688900.jpg"
+			],
+			"price": 1459,
+			"name": "Утеплені штани технологією OMNI-HEAT піксель жіночі 5.45style",
+			"isWarm": true
+		},
+		{
+			"id": 11,
+			"imageSrcs": [
+				"/content/images/37/506x600l80mc0/32698841811975.jpg",
+				"/content/images/37/487x600l80mc0/92752742983513.jpg",
+				"/content/images/37/488x600l80mc0/25720278907307.jpg",
+				"/content/images/37/489x600l80mc0/63653029856079.jpg",
+				"/content/images/37/491x600l80mc0/48975982825669.jpg",
+				"/content/images/37/480x600l80mc0/17770901901696.jpg"
+			],
+			"price": 1359,
+			"name": "Штани Soft Shell на флісі олива 5.45style",
+			"isWarm": true
+		},
+		{
+			"id": 12,
+			"imageSrcs": [
+				"/content/images/44/503x600l80mc0/taktychni-shtany-piksel-zhinochi-5.45style-99901562399629.png",
+				"/content/images/44/487x600l80mc0/taktychni-shtany-piksel-zhinochi-5.45style-54538180382737.png",
+				"/content/images/44/498x600l80mc0/taktychni-shtany-piksel-zhinochi-5.45style-34094265716650.png",
+				"/content/images/44/486x600l80mc0/taktychni-shtany-piksel-zhinochi-5.45style-52759114032283.png",
+				"/content/images/44/488x600l80mc0/taktychni-shtany-piksel-zhinochi-5.45style-58304278176539.png",
+				"/content/images/44/497x600l80mc0/taktychni-shtany-piksel-zhinochi-5.45style-97266046411922.png",
+				"/content/images/44/486x600l80mc0/taktychni-shtany-piksel-zhinochi-5.45style-27934935058503.png",
+				"/content/images/44/492x600l80mc0/taktychni-shtany-piksel-zhinochi-5.45style-47233499520727.png",
+				"/content/images/44/480x600l80mc0/taktychni-shtany-piksel-zhinochi-5.45style-94080931471020.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани піксель жіночі 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 13,
+			"imageSrcs": [
+				"/content/images/1/471x600l80mc0/20084043411609.png",
+				"/content/images/1/456x600l80mc0/99185188805065.png",
+				"/content/images/1/495x600l80mc0/97748403020355.png",
+				"/content/images/1/514x600l80mc0/77146617767195.png",
+				"/content/images/1/501x600l80mc0/91544322218971.png",
+				"/content/images/1/480x600l80mc0/86496436810383.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани олива жіночі 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 14,
+			"imageSrcs": [
+				"/content/images/8/500x600l80mc0/taktychni-shtany-5.45style-black-zhinochi-85352004391302.png",
+				"/content/images/8/488x600l80mc0/taktychni-shtany-5.45style-black-zhinochi-16015555159700.jpg",
+				"/content/images/8/488x600l80mc0/taktychni-shtany-5.45style-black-zhinochi-55745759207685.jpg",
+				"/content/images/8/485x600l80mc0/taktychni-shtany-5.45style-black-zhinochi-87050693795262.jpg",
+				"/content/images/8/543x600l80mc0/taktychni-shtany-5.45style-black-zhinochi-23531328663011.jpg",
+				"/content/images/8/553x600l80mc0/taktychni-shtany-5.45style-black-zhinochi-51847717158960.jpg",
+				"/content/images/8/480x600l80mc0/taktychni-shtany-5.45style-black-zhinochi-81681412375399.jpg"
+			],
+			"price": 1259,
+			"name": "Тактичні штани 5.45style black жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 15,
+			"imageSrcs": [
+				"/content/images/8/495x600l80mc0/medychni-shtany-5.45style-chervoni-zhinochi-18670545181735.jpg",
+				"/content/images/8/501x600l80mc0/medychni-shtany-5.45style-chervoni-zhinochi-23076635719584.jpg",
+				"/content/images/8/496x600l80mc0/medychni-shtany-5.45style-chervoni-zhinochi-49643025028829.jpg",
+				"/content/images/8/505x600l80mc0/medychni-shtany-5.45style-chervoni-zhinochi-23835543831773.jpg",
+				"/content/images/8/496x600l80mc0/medychni-shtany-5.45style-chervoni-zhinochi-53678981609403.jpg",
+				"/content/images/8/505x600l80mc0/medychni-shtany-5.45style-chervoni-zhinochi-59277343947044.jpg",
+				"/content/images/8/480x600l80mc0/medychni-shtany-5.45style-chervoni-zhinochi-91655121403225.jpg"
+			],
+			"price": 1259,
+			"name": "Медичні штани 5.45style червоні жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 16,
+			"imageSrcs": [
+				"/content/images/15/494x600l80mc0/41415241582211.jpg",
+				"/content/images/15/493x600l80mc0/13963637186776.jpg",
+				"/content/images/15/524x600l80mc0/51576174637233.jpg",
+				"/content/images/15/502x600l80mc0/69005501939646.jpg",
+				"/content/images/15/491x600l80mc0/70460133809326.jpg",
+				"/content/images/15/490x600l80mc0/83807432809283.jpg",
+				"/content/images/15/492x600l80mc0/86035581014675.jpg",
+				"/content/images/15/486x600l80mc0/14194217708153.jpg",
+				"/content/images/15/480x600l80mc0/19647107943608.jpg"
+			],
+			"price": 1259,
+			"name": "Штани карго 5.45style піксель жіночі",
+			"isWarm": false
+		}
+	],
+	"/termo-bilyzna/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/20/450x600l80mc0/termo-bilyzna-chorna-20132645817649.jpg",
+				"/content/images/20/450x600l80mc0/termo-bilyzna-chorna-61786970028374.jpg",
+				"/content/images/20/450x600l80mc0/termo-bilyzna-chorna-53327158198072.jpg",
+				"/content/images/20/450x600l80mc0/termo-bilyzna-chorna-23039269550786.jpg",
+				"/content/images/20/450x600l80mc0/termo-bilyzna-chorna-11194684058429.jpg",
+				"/content/images/20/450x600l80mc0/termo-bilyzna-chorna-79796575112990.jpg",
+				"/content/images/20/450x600l80mc0/termo-bilyzna-chorna-65651183916323.jpg",
+				"/content/images/20/450x600l80mc0/termo-bilyzna-chorna-17366463410072.jpg",
+				"/content/images/20/480x600l80mc0/termo-bilyzna-chorna-14859862636653.png"
+			],
+			"price": 959,
+			"name": "Тактична термо білизна 5.45style жіноча чорна",
+			"isWarm": true
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/26/450x600l80mc0/termo-bilyzna-olyva-71992019650076.jpg",
+				"/content/images/26/450x600l80mc0/termo-bilyzna-olyva-25930024497342.jpg",
+				"/content/images/26/450x600l80mc0/termo-bilyzna-olyva-92126174931003.jpg",
+				"/content/images/26/450x600l80mc0/termo-bilyzna-olyva-66960603948005.jpg",
+				"/content/images/26/450x600l80mc0/termo-bilyzna-olyva-72856167998934.jpg",
+				"/content/images/26/450x600l80mc0/termo-bilyzna-olyva-84271849025028.jpg",
+				"/content/images/26/450x600l80mc0/termo-bilyzna-olyva-98698166899943.jpg",
+				"/content/images/26/480x600l80mc0/termo-bilyzna-olyva-27862642334743.png"
+			],
+			"price": 959,
+			"name": "Тактична термо білизна  5.45style жіноча олива",
+			"isWarm": true
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/31/450x600l80mc0/taktychnyi-komplekt-spidnoi-bilyzny-71040712214461.jpg",
+				"/content/images/31/450x600l80mc0/taktychnyi-komplekt-spidnoi-bilyzny-97560863002657.jpg",
+				"/content/images/31/450x600l80mc0/taktychnyi-komplekt-spidnoi-bilyzny-94396868669690.jpg",
+				"/content/images/31/450x600l80mc0/taktychnyi-komplekt-spidnoi-bilyzny-16481219205001.jpg",
+				"/content/images/31/450x600l80mc0/taktychnyi-komplekt-spidnoi-bilyzny-53191057978006.jpg",
+				"/content/images/31/480x600l80mc0/taktychnyi-komplekt-spidnoi-bilyzny-39835661127554.png"
+			],
+			"price": 659,
+			"name": "Тактичний комплект спідньої білизни 5.45style чорний",
+			"isWarm": false
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/42/450x600l80mc0/77301833273010.JPG",
+				"/content/images/42/469x600l80mc0/taktychnyi-komplekt-spidnoi-bilyzny741-55100451647784.jpg",
+				"/content/images/42/450x600l80mc0/taktychnyi-komplekt-spidnoi-bilyzny741-97006160155527.jpg",
+				"/content/images/42/480x600l80mc0/taktychnyi-komplekt-spidnoi-bilyzny741-71862826749916.png"
+			],
+			"price": 659,
+			"name": "Тактичний комплект спідньої білизни 5.45style олива",
+			"isWarm": false
+		}
+	],
+	"/kurtky/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/20/480x600l80mc0/taktychna-kurtka-5.45style-softshell-chorna719-15289691226514.jpg",
+				"/content/images/20/450x600l80mc0/kurtka-softshell-chorna719-83447851934437.jpg",
+				"/content/images/20/450x600l80mc0/kurtka-softshell-chorna719-81721209743306.jpg",
+				"/content/images/20/482x600l80mc0/taktychna-kurtka-5.45style-softshell-chorna719-93507313782169.jpg",
+				"/content/images/20/486x600l80mc0/taktychna-kurtka-5.45style-softshell-chorna719-15158555242854.jpg",
+				"/content/images/20/480x600l80mc0/taktychna-kurtka-5.45style-softshell-chorna719-78145743301540.jpg"
+			],
+			"price": 2159,
+			"name": "Тактична куртка 5.45style SoftShell чорна",
+			"isWarm": true
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/43/450x600l80mc0/flisova-kofta-olyva-27741231959177.jpg",
+				"/content/images/43/450x600l80mc0/flisova-kofta-olyva-90909400650414.jpg",
+				"/content/images/43/450x600l80mc0/flisova-kofta-olyva-68821803197433.jpg",
+				"/content/images/43/450x600l80mc0/flisova-kofta-olyva-86504848638712.jpg",
+				"/content/images/43/450x600l80mc0/flisova-kofta-olyva-37923266629658.jpg",
+				"/content/images/43/277x600l80mc0/flisova-kofta-olyva-87339217516410.jpg"
+			],
+			"price": 1159,
+			"name": "Тактична флісова кофта 5.45style жіноча олива",
+			"isWarm": true
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/4/450x600l80mc0/flisova-kofta-temno-syniaid-95464057300765.jpg",
+				"/content/images/4/450x600l80mc0/flisova-kofta-temno-syniaid-50795283756860.jpg",
+				"/content/images/4/450x600l80mc0/flisova-kofta-temno-syniaid-56759825381632.jpg",
+				"/content/images/4/450x600l80mc0/flisova-kofta-temno-syniaid-71463452152212.jpg",
+				"/content/images/4/277x600l80mc0/flisova-kofta-temno-synia753-35891686295231.jpg"
+			],
+			"price": 1159,
+			"name": "Тактична флісова кофта 5.45style жіноча темно-синя",
+			"isWarm": true
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/14/450x600l80mc0/flisova-kofta-chorna763-17432121098856.jpg",
+				"/content/images/14/450x600l80mc0/flisova-kofta-chorna763-65236822141524.jpg",
+				"/content/images/14/450x600l80mc0/flisova-kofta-chorna763-61143490427773.jpg",
+				"/content/images/14/450x600l80mc0/flisova-kofta-chorna763-83417958021143.jpg",
+				"/content/images/14/476x600l80mc0/flisova-kofta-chorna763-35101342476824.jpg",
+				"/content/images/14/277x600l80mc0/flisova-kofta-chorna763-92533577234151.jpg"
+			],
+			"price": 1159,
+			"name": "Тактична флісова кофта 5.45style жіноча чорна",
+			"isWarm": true
+		},
+		{
+			"id": 4,
+			"imageSrcs": [
+				"/content/images/50/486x600l80mc0/kurtka-soft-shell-olyva799-68246683886356.png",
+				"/content/images/50/489x600l80mc0/kurtka-soft-shell-olyva799-43933818499453.png",
+				"/content/images/50/486x600l80mc0/kurtka-soft-shell-olyva799-75584697928001.png",
+				"/content/images/50/485x600l80mc0/kurtka-soft-shell-olyva799-44771942291758.png",
+				"/content/images/50/493x600l80mc0/kurtka-soft-shell-olyva799-99112772207764.png",
+				"/content/images/50/494x600l80mc0/kurtka-soft-shell-olyva799-74922347041729.png",
+				"/content/images/50/488x600l80mc0/kurtka-soft-shell-olyva799-45447862536760.png",
+				"/content/images/50/486x600l80mc0/kurtka-soft-shell-olyva799-75530466859097.png",
+				"/content/images/50/492x600l80mc0/kurtka-soft-shell-olyva799-67324180342498.png",
+				"/content/images/50/488x600l80mc0/kurtka-soft-shell-olyva799-41527229284735.png",
+				"/content/images/49/480x600l80mc0/kurtka-soft-shell-olyva-61351602950928.jpg"
+			],
+			"price": 2159,
+			"name": "Куртка Soft Shell олива",
+			"isWarm": true
+		},
+		{
+			"id": 5,
+			"imageSrcs": [
+				"/content/images/47/450x600l80mc0/flisova-kofta-delta-polartec-5.45style-black-60937136279469.jpg",
+				"/content/images/47/450x600l80mc0/flisova-kofta-delta-polartec-5.45style-black-13916881912730.jpg",
+				"/content/images/47/450x600l80mc0/flisova-kofta-delta-polartec-5.45style-black-28779468680328.jpg",
+				"/content/images/47/450x600l80mc0/flisova-kofta-delta-polartec-5.45style-black-55005888335528.jpg",
+				"/content/images/47/450x600l80mc0/flisova-kofta-delta-polartec-5.45style-black-31650590426894.jpg",
+				"/content/images/47/450x600l80mc0/flisova-kofta-delta-polartec-5.45style-black-13869905622896.jpg",
+				"/content/images/48/480x600l80mc0/69646029649670.jpg"
+			],
+			"price": 899,
+			"name": "Флісова кофта Delta Polartec 5.45style black",
+			"isWarm": true
+		},
+		{
+			"id": 6,
+			"imageSrcs": [
+				"/content/images/35/261x320l80mc0/taktychnyi-zhinochyi-kitel5.45style-piksel-46168746239741.png",
+				"/content/images/35/263x320l80mc0/taktychnyi-zhinochyi-kitel5.45style-piksel-77948330687799.png",
+				"/content/images/35/263x320l80mc0/taktychnyi-zhinochyi-kitel5.45style-piksel-64955104193664.png",
+				"/content/images/35/269x320l80mc0/taktychnyi-zhinochyi-kitel5.45style-piksel-47119669891928.png",
+				"/content/images/35/268x320l80mc0/taktychnyi-zhinochyi-kitel5.45style-piksel-19887090310493.png",
+				"/content/images/35/265x320l80mc0/taktychnyi-zhinochyi-kitel5.45style-piksel-81929227809962.png",
+				"/content/images/35/265x320l80mc0/taktychnyi-zhinochyi-kitel5.45style-piksel-43845237816593.png",
+				"/content/images/35/265x320l80mc0/taktychnyi-zhinochyi-kitel5.45style-piksel-38518682460798.png",
+				"/content/images/35/480x600l80mc0/taktychnyi-zhinochyi-kitel5.45style-piksel-11655204413666.png"
+			],
+			"price": 1559,
+			"name": "Тактичний жіночий кітель5.45style піксель",
+			"isWarm": false
+		},
+		{
+			"id": 7,
+			"imageSrcs": [
+				"/content/images/36/450x600l80mc0/19669985775620.jpg",
+				"/content/images/36/450x600l80mc0/46958944937324.jpg",
+				"/content/images/36/450x600l80mc0/90725950111991.jpg",
+				"/content/images/36/450x600l80mc0/91844803143682.jpg",
+				"/content/images/36/480x600l80mc0/30503876819280.jpg"
+			],
+			"price": 2159,
+			"name": "Куртка Soft Shell темно-синя",
+			"isWarm": true
+		},
+		{
+			"id": 8,
+			"imageSrcs": [
+				"/content/images/15/501x600l80mc0/66813147053715.jpg",
+				"/content/images/15/487x600l80mc0/35110607249611.png",
+				"/content/images/15/491x600l80mc0/46069264358179.png",
+				"/content/images/15/490x600l80mc0/54585024208001.png",
+				"/content/images/15/490x600l80mc0/85341396013059.png",
+				"/content/images/15/480x600l80mc0/28837210218934.jpg"
+			],
+			"price": 2159,
+			"name": "Куртка Soft Shell олива 5.45style",
+			"isWarm": true
+		},
+		{
+			"id": 9,
+			"imageSrcs": [
+				"/content/images/22/504x600l80mc0/19526508847165.jpg",
+				"/content/images/22/496x600l80mc0/90409251160464.png",
+				"/content/images/22/491x600l80mc0/72584419408421.png",
+				"/content/images/22/486x600l80mc0/43401281630979.png",
+				"/content/images/22/489x600l80mc0/94742455373526.png",
+				"/content/images/22/493x600l80mc0/22364847957502.png",
+				"/content/images/23/480x600l80mc0/1022-11922350104904.png"
+			],
+			"price": 1159,
+			"name": "Тактична флісова кофта жіноча black 5.45style",
+			"isWarm": true
+		},
+		{
+			"id": 10,
+			"imageSrcs": [
+				"/content/images/50/450x600l80mc0/48284238698385.jpg",
+				"/content/images/50/450x600l80mc0/88204365202284.jpg",
+				"/content/images/50/450x600l80mc0/88545576499206.jpg",
+				"/content/images/50/450x600l80mc0/57972107427309.jpg",
+				"/content/images/50/450x600l80mc0/11173851411592.jpg",
+				"/content/images/50/450x600l80mc0/84158406998094.jpg",
+				"/content/images/50/450x600l80mc0/74755325906718.jpg",
+				"/content/images/50/450x600l80mc0/43146284764678.jpg",
+				"/content/images/50/480x600l80mc0/90256529332198.jpg"
+			],
+			"price": 3299,
+			"name": "Тактична жіноча куртка з утеплювачем Omni-Heat 5.45style black",
+			"isWarm": true
+		},
+		{
+			"id": 11,
+			"imageSrcs": [
+				"/content/images/12/450x600l80mc0/65153266354445.jpg",
+				"/content/images/12/450x600l80mc0/58448477219702.jpg",
+				"/content/images/12/450x600l80mc0/12600409307525.jpg",
+				"/content/images/12/450x600l80mc0/22501473926995.jpg",
+				"/content/images/12/450x600l80mc0/69100258386452.jpg",
+				"/content/images/12/450x600l80mc0/80081845017453.jpg",
+				"/content/images/12/450x600l80mc0/51879517648950.jpg",
+				"/content/images/12/480x600l80mc0/91942332798084.png"
+			],
+			"price": 899,
+			"name": "Флісова кофта Delta Polartec 5.45style темно-синя",
+			"isWarm": true
+		},
+		{
+			"id": 12,
+			"imageSrcs": [
+				"/content/images/24/501x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-23969091710030.jpg",
+				"/content/images/24/518x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-86037079369256.jpg",
+				"/content/images/24/558x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-91011668788046.jpg",
+				"/content/images/24/490x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-88838179283154.jpg",
+				"/content/images/24/492x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-28319062781942.jpg",
+				"/content/images/24/494x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-88101189018463.jpg",
+				"/content/images/24/480x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-30532606232213.png"
+			],
+			"price": 899,
+			"name": "Флісова кофта Delta Polartec 5.45style олива",
+			"isWarm": true
+		},
+		{
+			"id": 13,
+			"imageSrcs": [
+				"/content/images/46/493x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-z-velkro-96009868323046.jpg",
+				"/content/images/46/489x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-z-velkro-52349432606013.jpg",
+				"/content/images/46/498x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-z-velkro-70706320517550.jpg",
+				"/content/images/46/492x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-z-velkro-20900760285533.jpg",
+				"/content/images/46/503x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-z-velkro-74019172895822.jpg",
+				"/content/images/46/495x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-z-velkro-51766304596218.jpg",
+				"/content/images/46/488x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-z-velkro-77516686892372.jpg",
+				"/content/images/46/478x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-z-velkro-30332017963152.jpg",
+				"/content/images/46/480x600l80mc0/flisova-kofta-delta-polartec-5.45style-olyva-z-velkro-26930812169401.png"
+			],
+			"price": 959,
+			"name": "Флісова кофта Delta Polartec 5.45style олива з велкро",
+			"isWarm": true
+		},
+		{
+			"id": 14,
+			"imageSrcs": [
+				"/content/images/2/495x600l80mc0/flisova-kofta-delta-polartec-5.45style-chorna-z-velkro-75221068614762.jpg",
+				"/content/images/2/496x600l80mc0/flisova-kofta-delta-polartec-5.45style-chorna-z-velkro-74823771806666.jpg",
+				"/content/images/2/503x600l80mc0/flisova-kofta-delta-polartec-5.45style-chorna-z-velkro-12678448192970.jpg",
+				"/content/images/2/498x600l80mc0/flisova-kofta-delta-polartec-5.45style-chorna-z-velkro-60803503668644.jpg",
+				"/content/images/2/495x600l80mc0/flisova-kofta-delta-polartec-5.45style-chorna-z-velkro-31111814333199.jpg",
+				"/content/images/2/480x600l80mc0/flisova-kofta-delta-polartec-5.45style-chorna-z-velkro-65286749923489.png"
+			],
+			"price": 959,
+			"name": "Флісова кофта Delta Polartec 5.45style чорна з велкро",
+			"isWarm": true
+		}
+	],
+	"/aksesuary/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/5/493x600l80mc0/sensorni-flisovi-rukavytsi-18562641864997.jpg",
+				"/content/images/5/450x600l80mc0/sensorni-flisovi-rukavytsi-25279577877034.jpg",
+				"/content/images/5/800x600l80mc0/sensorni-flisovi-rukavytsi-75253610212495.jpg"
+			],
+			"price": 299,
+			"name": "Сенсорні флісові рукавиці 5.45style",
+			"isWarm": true
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/22/450x600l80mc0/shkarpetky-olyva-71463334826354.jpg",
+				"/content/images/22/450x600l80mc0/shkarpetky-olyva-53781109976530.jpg",
+				"/content/images/22/450x600l80mc0/shkarpetky-olyva-85210723779927.jpg"
+			],
+			"price": 50,
+			"name": "Тактичні шкарпетки 5.45style олива жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/25/450x600l80mc0/shkarpetky-chorni-20476942430853.jpg",
+				"/content/images/25/450x600l80mc0/shkarpetky-chorni-29876137661481.jpg",
+				"/content/images/25/450x600l80mc0/shkarpetky-chorni-54732519976409.jpg"
+			],
+			"price": 50,
+			"name": "Тактичні шкарпетки 5.45style чорні жіночі",
+			"isWarm": false
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/46/727x600l80mc0/taktychni-rukavytsi-chorni-93117319500835.jpg",
+				"/content/images/46/699x600l80mc0/taktychni-rukavytsi-chorni-91021127117391.jpg"
+			],
+			"price": 359,
+			"name": "Тактичні рукавиці чорні",
+			"isWarm": false
+		},
+		{
+			"id": 4,
+			"imageSrcs": [
+				"/content/images/3/497x600l80mc0/taktychnyi-remin-5.45style-olyva-zhinochi-37770224347895.png"
+			],
+			"price": 459,
+			"name": "Тактичний ремінь 5.45style олива жіночий",
+			"isWarm": false
+		},
+		{
+			"id": 5,
+			"imageSrcs": [
+				"/content/images/4/516x600l80mc0/taktychnyi-remin-5.45style-koiot-zhinochyi-41276612416080.png"
+			],
+			"price": 459,
+			"name": "Тактичний ремінь 5.45style койот жіночий",
+			"isWarm": false
+		},
+		{
+			"id": 6,
+			"imageSrcs": [
+				"/content/images/2/450x600l80mc0/taktychnyi-remin-5.45style-chornyi-zhinochyi-78409603006838.jpg",
+				"/content/images/2/450x600l80mc0/taktychnyi-remin-5.45style-chornyi-zhinochyi-20964748092932.jpg",
+				"/content/images/2/450x600l80mc0/taktychnyi-remin-5.45style-chornyi-zhinochyi-68263847845096.jpg",
+				"/content/images/2/450x600l80mc0/taktychnyi-remin-5.45style-chornyi-zhinochyi-12884716467678.jpg",
+				"/content/images/2/450x600l80mc0/taktychnyi-remin-5.45style-chornyi-zhinochyi-38317486377252.jpg"
+			],
+			"price": 459,
+			"name": "Тактичний ремінь 5.45style чорний жіночий",
+			"isWarm": false
+		}
+	],
+	"/holovni-ubory/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/30/491x600l80mc0/kepka-black-zhinocha-14804459703606.png",
+				"/content/images/30/496x600l80mc0/kepka-black-zhinocha-77140853554507.png",
+				"/content/images/30/480x600l80mc0/taktychna-kepka-5.45style-chorna-zhinocha779-77475621961928.png"
+			],
+			"price": 359,
+			"name": "Тактична кепка 5.45style чорна жіноча",
+			"isWarm": false
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/33/450x600l80mc0/baf-chornyi-28528557637618.jpg",
+				"/content/images/33/450x600l80mc0/baf-chornyi-32550118298831.jpg"
+			],
+			"price": 199,
+			"name": "Баф чорний 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/34/450x600l80mc0/baf-olyva-96343836891801.jpg",
+				"/content/images/34/450x600l80mc0/baf-olyva-60720564423955.jpg",
+				"/content/images/34/450x600l80mc0/baf-olyva-24648954169646.jpg"
+			],
+			"price": 199,
+			"name": "Баф олива 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/35/450x600l80mc0/shapka-chorna-37503892586486.jpg",
+				"/content/images/35/450x600l80mc0/shapka-chorna-52589467821319.jpg",
+				"/content/images/35/450x600l80mc0/shapka-chorna-64043107686643.png"
+			],
+			"price": 259,
+			"name": "Шапка чорна 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 4,
+			"imageSrcs": [
+				"/content/images/36/450x600l80mc0/shapka-olyva-66342395374417.jpg",
+				"/content/images/36/450x600l80mc0/shapka-olyva-47081711012555.jpg",
+				"/content/images/36/450x600l80mc0/shapka-olyva-29027731510795.jpg"
+			],
+			"price": 259,
+			"name": "Шапка олива 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 5,
+			"imageSrcs": [
+				"/content/images/37/624x600l80mc0/kepka-olyvaid-85212351194242.jpg",
+				"/content/images/37/664x600l80mc0/kepka-olyvaid-51166529375648.jpg",
+				"/content/images/37/555x600l80mc0/kepka-olyvaid-12637460539224.jpg",
+				"/content/images/37/480x600l80mc0/taktychna-kepka-5.45style-olyva-zhinocha-47536320911559.png"
+			],
+			"price": 359,
+			"name": "Тактична кепка 5.45style олива жіноча",
+			"isWarm": false
+		},
+		{
+			"id": 6,
+			"imageSrcs": [
+				"/content/images/40/501x600l80mc0/kepka-piksel-zhinocha-85685899218495.png",
+				"/content/images/40/513x600l80mc0/kepka-piksel-zhinocha-21753696935020.png",
+				"/content/images/40/480x600l80mc0/taktychna-kepka-5.45style-piksel-zhinocha789-27630745745117.png"
+			],
+			"price": 359,
+			"name": "Тактична кепка 5.45style піксель жіноча",
+			"isWarm": false
+		},
+		{
+			"id": 7,
+			"imageSrcs": [
+				"/content/images/43/488x600l80mc0/panama-piksel-zhinocha-96526727686842.png",
+				"/content/images/43/498x600l80mc0/panama-piksel-zhinocha-91035265124879.png",
+				"/content/images/43/490x600l80mc0/panama-piksel-zhinocha-29520105161387.png",
+				"/content/images/43/480x600l80mc0/taktychna-zhinocha-panama-5.45style-piksel792-80801196164323.png"
+			],
+			"price": 359,
+			"name": "Тактична жіноча панама 5.45style піксель",
+			"isWarm": false
+		},
+		{
+			"id": 8,
+			"imageSrcs": [
+				"/content/images/14/450x600l80mc0/taktychna-kepka-5.45style-multykam-zhinocha-65934525742465.jpg",
+				"/content/images/14/450x600l80mc0/taktychna-kepka-5.45style-multykam-zhinocha-40812973149226.jpg",
+				"/content/images/14/450x600l80mc0/taktychna-kepka-5.45style-multykam-zhinocha-49691927770123.jpg",
+				"/content/images/14/450x600l80mc0/taktychna-kepka-5.45style-multykam-zhinocha-95127167773468.jpg",
+				"/content/images/14/450x600l80mc0/taktychna-kepka-5.45style-multykam-zhinocha-40241753093237.jpg",
+				"/content/images/14/450x600l80mc0/taktychna-kepka-5.45style-multykam-zhinocha-71521442236871.jpg",
+				"/content/images/14/480x600l80mc0/taktychna-kepka-5.45style-multykam-zhinocha-42644795195241.png"
+			],
+			"price": 359,
+			"name": "Тактична кепка 5.45style мультикам жіноча",
+			"isWarm": false
+		}
+	],
+	"/komplekty/": [
+		{
+			"id": 0,
+			"imageSrcs": [
+				"/content/images/17/450x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-black-37256479717402.jpg",
+				"/content/images/17/450x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-black-63342897437009.jpg",
+				"/content/images/17/450x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-black-78425524649705.jpg",
+				"/content/images/17/450x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-black-23016822706980.jpg",
+				"/content/images/19/480x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-black818-52823975331036.jpg",
+				"/content/images/19/480x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-black818-76959625307444.jpg"
+			],
+			"price": 2218,
+			"name": "Комплект: тактичні штани + убакс 5.45style black",
+			"isWarm": false
+		},
+		{
+			"id": 1,
+			"imageSrcs": [
+				"/content/images/23/450x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-piksel-57470703211646.jpg",
+				"/content/images/23/450x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-piksel-92504593158902.jpg",
+				"/content/images/23/450x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-piksel-56772349011692.jpg",
+				"/content/images/23/480x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-piksel-85124505772481.jpg",
+				"/content/images/23/480x600l80mc0/komplekt-taktychni-shtany-ubaks-5.45style-piksel-32077765085986.jpg"
+			],
+			"price": 2218,
+			"name": "Комплект: тактичні штани + убакс 5.45style піксель",
+			"isWarm": false
+		},
+		{
+			"id": 2,
+			"imageSrcs": [
+				"/content/images/29/450x600l80mc0/komplekt-taktychni-shtany-taktychnyi-lonhsliv-5.45style-43619187658121.jpg",
+				"/content/images/29/450x600l80mc0/komplekt-taktychni-shtany-taktychnyi-lonhsliv-5.45style-73418325137211.jpg",
+				"/content/images/29/450x600l80mc0/komplekt-taktychni-shtany-taktychnyi-lonhsliv-5.45style-83450183388802.jpg",
+				"/content/images/29/450x600l80mc0/komplekt-taktychni-shtany-taktychnyi-lonhsliv-5.45style-42523660767166.jpg",
+				"/content/images/29/450x600l80mc0/komplekt-taktychni-shtany-taktychnyi-lonhsliv-5.45style-59129086772575.jpg",
+				"/content/images/29/450x600l80mc0/komplekt-taktychni-shtany-taktychnyi-lonhsliv-5.45style-53475279742912.jpg",
+				"/content/images/29/480x600l80mc0/komplekt-taktychni-shtany-taktychnyi-lonhsliv-5.45style-86815881148322.jpg",
+				"/content/images/29/480x600l80mc0/komplekt-taktychni-shtany-taktychnyi-lonhsliv-5.45style-79203629870220.jpg"
+			],
+			"price": 1998,
+			"name": "Комплект: тактичні штани + тактичний лонгслів 5.45style",
+			"isWarm": false
+		},
+		{
+			"id": 3,
+			"imageSrcs": [
+				"/content/images/35/450x600l80mc0/komplekt-soft-shell-5.45style-black-38879386406000.jpg",
+				"/content/images/35/450x600l80mc0/komplekt-soft-shell-5.45style-black-21904363587093.jpg",
+				"/content/images/35/450x600l80mc0/komplekt-soft-shell-5.45style-black-31901474232058.jpg",
+				"/content/images/35/450x600l80mc0/komplekt-soft-shell-5.45style-black-76835877552936.jpg",
+				"/content/images/35/450x600l80mc0/komplekt-soft-shell-5.45style-black-76870102843258.jpg",
+				"/content/images/35/480x600l80mc0/komplekt-soft-shell-5.45style-black-92404307982474.jpg",
+				"/content/images/35/480x600l80mc0/komplekt-soft-shell-5.45style-black-45025162437381.jpg",
+				"/content/images/35/480x600l80mc0/komplekt-soft-shell-5.45style-black-93933192360315.jpg"
+			],
+			"price": 4357,
+			"name": "Комплект Soft Shell 5.45style black",
+			"isWarm": false
+		},
+		{
+			"id": 4,
+			"imageSrcs": [
+				"/content/images/42/480x600l80mc0/flisovyi-kostium-5.45style-60954159801057.png",
+				"/content/images/42/492x600l80mc0/flisovyi-kostium-5.45style-62225248492920.png",
+				"/content/images/42/492x600l80mc0/flisovyi-kostium-5.45style-99899763022688.png",
+				"/content/images/42/476x600l80mc0/flisovyi-kostium-5.45style-89008781117892.png",
+				"/content/images/42/489x600l80mc0/flisovyi-kostium-5.45style-20949571453826.png",
+				"/content/images/42/479x600l80mc0/flisovyi-kostium-5.45style-86263446964600.png",
+				"/content/images/42/480x600l80mc0/flisovyi-kostium-5.45style-84155558486017.png"
+			],
+			"price": 2199,
+			"name": "Флісовий костюм 5.45style чорний",
+			"isWarm": true
+		},
+		{
+			"id": 5,
+			"imageSrcs": [
+				"/content/images/16/506x600l80mc0/komplekt-shtany-soft-shell-flisova-kofta-delta-polartec-5.45style-black-11182520881680.jpg",
+				"/content/images/16/489x600l80mc0/komplekt-shtany-soft-shell-flisova-kofta-delta-polartec-5.45style-black-92217564065771.png",
+				"/content/images/16/490x600l80mc0/komplekt-shtany-soft-shell-flisova-kofta-delta-polartec-5.45style-black-15873384939066.png",
+				"/content/images/16/499x600l80mc0/komplekt-shtany-soft-shell-flisova-kofta-delta-polartec-5.45style-black-55730846139595.png",
+				"/content/images/16/480x600l80mc0/komplekt-shtany-soft-shell-flisova-kofta-delta-polartec-5.45style-black-65668545340781.png",
+				"/content/images/16/480x600l80mc0/komplekt-shtany-soft-shell-flisova-kofta-delta-polartec-5.45style-black-56066293082197.jpg"
+			],
+			"price": 2258,
+			"name": "Комплект: штани Soft Shell + флісова кофта Delta Polartec 5.45style black",
+			"isWarm": true
+		},
+		{
+			"id": 6,
+			"imageSrcs": [
+				"/content/images/30/508x600l80mc0/47521591085679.jpg",
+				"/content/images/30/498x600l80mc0/95415485309483.png",
+				"/content/images/30/500x600l80mc0/46397090210801.png",
+				"/content/images/30/490x600l80mc0/15391696087228.png",
+				"/content/images/30/480x600l80mc0/59300862034270.png",
+				"/content/images/30/480x600l80mc0/33947985902844.jpg"
+			],
+			"price": 2358,
+			"name": "Комплект: штани OMNI-HEAT + фліска Delta Polartec 5.45style",
+			"isWarm": true
+		},
+		{
+			"id": 7,
+			"imageSrcs": [
+				"/content/images/29/499x600l80mc0/29667047406156.jpg",
+				"/content/images/29/502x600l80mc0/74509966532706.jpg",
+				"/content/images/29/494x600l80mc0/41352522151828.png",
+				"/content/images/29/490x600l80mc0/91154561635836.png",
+				"/content/images/29/494x600l80mc0/16806421465988.png",
+				"/content/images/29/480x600l80mc0/71272149317512.jpg",
+				"/content/images/29/480x600l80mc0/52747531485680.jpg"
+			],
+			"price": 2198,
+			"name": "Комплект: штани Soft Shell + лонгслів Cool Max",
+			"isWarm": false
+		},
+		{
+			"id": 8,
+			"imageSrcs": [
+				"/content/images/31/503x600l80mc0/flisovyi-kostium-5.45style-olyva-88858766472467.jpg",
+				"/content/images/31/483x600l80mc0/flisovyi-kostium-5.45style-olyva-45620984324777.jpg",
+				"/content/images/31/489x600l80mc0/flisovyi-kostium-5.45style-olyva-54468532123060.jpg",
+				"/content/images/31/480x600l80mc0/flisovyi-kostium-5.45style-olyva-79097776359315.jpg",
+				"/content/images/31/480x600l80mc0/flisovyi-kostium-5.45style-olyva-31126924332481.png"
+			],
+			"price": 2199,
+			"name": "Флісовий костюм 5.45style олива",
+			"isWarm": true
+		}
+	]
+}

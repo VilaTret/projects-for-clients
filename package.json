@@ -1,0 +1,23 @@
+{
+	"name": "projects-for-clients",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"crypto": "^1.0.1",
+		"express": "^4.18.3",
+		"jimp": "^0.22.12",
+		"jsdom": "^24.0.0",
+		"node-telegram-bot-api": "^0.64.0",
+		"puppeteer": "^22.4.1",
+		"sharp": "^0.33.2"
+	},
+	"engines": {
+		"node": "14.x"
+	}
+}
