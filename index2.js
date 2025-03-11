@@ -1662,6 +1662,10 @@ app.get('/clothes', async (req, res) => {
 	return res.send(updateClothesReponce)
 })
 
+app.get("/", (req, res) => res.send("Express on Vercel"));
+
 app.listen('3000', () => {
 	console.log('server was started')
 })
+
+module.exports = app;
