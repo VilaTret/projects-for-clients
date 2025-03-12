@@ -2,10 +2,10 @@
 	"name": "projects-for-clients",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "main-index-from-glitch.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node index2.js"
+		"start": "node main-index-from-glitch.js"
 	},
 	"author": "",
 	"license": "ISC",
