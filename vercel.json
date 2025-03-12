@@ -1,5 +1,15 @@
 {
   "version": 2,
-  "builds": [{ "src": "main-index-from-glitch.js", "use": "@vercel/node" }],
-  "routes": [{ "src": "/(.*)", "dest": "main-index-from-glitch.js" }]
+  "builds": [
+    {
+      "src": "main-index-from-glitch.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "main-index-from-glitch.js"
+    }
+  ]
 }

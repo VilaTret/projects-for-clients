@@ -4,8 +4,7 @@
 	"description": "",
 	"main": "main-index-from-glitch.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node main-index-from-glitch.js"
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "",
 	"license": "ISC",
