@@ -1245,6 +1245,10 @@ const navigationItems = JSON.parse(
 
 const app = express()
 
+app.get('/', (req, res) => {
+    res.send('Hello, World!');
+});
+
 app.get('/users', (req, res) => {
 	const users = fs.readFileSync('users.json', 'utf-8')
 
